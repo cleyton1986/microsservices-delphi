@@ -9,14 +9,8 @@ Repositório de exemplo microservice em delphi
 
 # Escopo e objetivo
 
-
-
 ## Iniciando...
 
-
-Agora você poderá executar os vários comandos abaixo.
-
 ## Pré-requisitos
-
 
 ## Limpar, compilar, executar testes de unidade e cobertura
